@@ -5,7 +5,7 @@
     "description": "A pack for using the AMQP transport with Symfony Messenger",
     "require": {
         "php": "^7.1",
-        "symfony/serializer-pack": "^3.3|^4.0",
+        "symfony/serializer": "^3.3|^4.0",
         "symfony/messenger": "^4.1",
         "ext-amqp": "*"
     }
