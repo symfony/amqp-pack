@@ -6,7 +6,7 @@
     "require": {
         "php": "^7.1",
         "symfony/serializer-pack": "*",
-        "symfony/messenger": "^4.1",
+        "symfony/messenger": "*",
         "ext-amqp": "*"
     }
 }
