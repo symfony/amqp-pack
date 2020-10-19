@@ -4,7 +4,6 @@
     "license": "MIT",
     "description": "A pack for using the AMQP transport with Symfony Messenger",
     "require": {
-        "php": "^7.1",
         "symfony/serializer-pack": "*",
         "symfony/messenger": "*",
         "ext-amqp": "*"
